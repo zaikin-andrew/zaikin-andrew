@@ -1,8 +1,8 @@
-# Andrei Zaikin
+# Hi, I'm Andrei 👋
 
 **Tech Lead · Solution Architect · AI Engineer**
 
-11+ years building production systems that drive revenue and scale. Founded and ran a [25-person software company](https://flo.team) for 8 years — from zero. Hired, trained, sold, architected, coded, and delivered. Shipped 70+ cloud solutions for clients including EA, Google, NBCUniversal, CNN, Riot Games, and MGM. Now bringing that founder-operator mindset to product teams that need to move fast and ship reliably.
+11+ years building production systems that drive revenue and scale. Founded and ran a [25-person software company](https://flo.team) for 8 years — from zero. Hired, trained, sold, architected, coded, and delivered. Shipped 70+ cloud solutions and 300+ media workflow automation for clients including EA, Google, NBCUniversal, CNN, Riot Games, and MGM. Now bringing that founder-operator mindset to product teams that need to move fast and ship reliably.
 
 📍 Lisbon, Portugal · Remote (EU / UK / US)
 
