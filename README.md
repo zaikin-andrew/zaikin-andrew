@@ -1,8 +1,13 @@
 # Hi, I'm Andrei 👋
 
-**Tech Lead · Solution Architect · AI Engineer**
+**Production AI & Cloud Architect (Tech Lead)**
 
-11+ years building production systems that drive revenue and scale. Founded and ran a [25-person software company](https://flo.team) for 8 years — from zero. Hired, trained, sold, architected, coded, and delivered. Shipped 70+ cloud solutions and 300+ media workflow automation for clients including EA, Google, NBCUniversal, CNN, Riot Games, and MGM. Now bringing that founder-operator mindset to product teams that need to move fast and ship reliably.
+> Node.js / Python / AWS · End-to-end ownership · Delivery under real constraints
+
+11+ years building production systems that drive revenue and scale. I know what it takes to own outcomes.
+For 8 years I founded and ran a 25-person software company First Line Outsourcing(now closed) - hiring, sales, architecture, coding, delivery, and production ops.
+I shipped 70+ cloud solutions and built 300+ workflow automations across media and data-heavy products.
+Now I’m looking for a strong product team to join, go deep, and ship a thing exceptionally well.
 
 📍 Lisbon, Portugal · Remote (EU / UK / US)
 
@@ -77,4 +82,5 @@ Built from scratch to 25 people. Full-cycle custom development: web, mobile, des
 
 ---
 
-*I take ownership, ship to production, and make products profitable. [Let's talk.](https://linkedin.com/in/azaikin)*
+I take ownership, ship to production, and make hard trade-offs responsibly.  
+*If you’re building a product where reliability and speed both matter - [let’s talk](https://linkedin.com/in/azaikin)*
