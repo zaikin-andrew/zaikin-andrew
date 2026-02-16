@@ -27,7 +27,7 @@
 **[Sofile](https://sofile.io)** — B2B/B2C SaaS platform and official Adobe Video Partner
 Custom panel enabling native access to cloud media directly from Adobe Premiere Pro, After Effects, Photoshop, and other Adobe packages. Designed scalable serverless architecture with multi-cloud storage integrations (AWS S3, GCP, IBM, Backblaze, Dropbox, Google Drive, OneDrive) and automated workflows for file transfers, metadata handling, encoding, and project sharing. Widely adopted by enterprise post-production studios and individual creators worldwide, handling 15TB+ of media transfers monthly. White-label solution for Enterprise Cloud providers(DataCore, Wasabi, ObjectMatrix).
 
-**[MDS Collection](https://medium.com/@azaikin/building-mds-collection-from-a-fan-side-project-to-10-000-users-f8d0d5f63311)** — AI-Powered Audio Archive App of famous radio broadcast Model for assembly.
+**[MDS Collection](https://www.mds-collection.ru/)** — AI-Powered Audio Archive App of famous radio broadcast Model for assembly.
 Mobile app for 1,600+ audio stories with semantic search via Qdrant, BGE-M3, and reranking. 12K+ users (2K MAU). Automated ingestion pipeline: local Whisper → OpenAI API → BGE-M3 → Qdrant → annotation and image generation.
 
 **[First Line Outsourcing](https://flo.team)** — Software Company (Founded 2017, Closed 2025)
