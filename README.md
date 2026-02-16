@@ -72,6 +72,7 @@ Built from scratch to 25 people. Full-cycle custom development: web, mobile, des
 ### Education
 
 **M.Sc. Nanotechnologies** — Southern Federal University (GPA 4.0)
+
 **B.Sc. Electronic Devices & Systems Engineering** — Southern Federal University (GPA 3.7)
 
 ---
