@@ -29,7 +29,7 @@ Now I’m looking for a strong product team to join, go deep, and ship a thing e
 
 ### Products I've Built
 
-**[Sofile](https://sofile.io)** — B2B/B2C SaaS platform and official Adobe Video Partner
+**[Sofile](https://www.sofile.io)** — B2B/B2C SaaS platform and official Adobe Video Partner
 Custom panel enabling native access to cloud media directly from Adobe Premiere Pro, After Effects, Photoshop, and other Adobe packages. Designed scalable serverless architecture with multi-cloud storage integrations (AWS S3, GCP, IBM, Backblaze, Dropbox, Google Drive, OneDrive) and automated workflows for file transfers, metadata handling, encoding, and project sharing. Widely adopted by enterprise post-production studios and individual creators worldwide, handling 15TB+ of media transfers monthly. White-label solution for Enterprise Cloud providers(DataCore, Wasabi, ObjectMatrix).
 
 **[MDS Collection](https://www.mds-collection.ru/)** — AI-Powered Audio Archive App of famous radio broadcast Model for assembly.
