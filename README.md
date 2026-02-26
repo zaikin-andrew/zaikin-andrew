@@ -36,7 +36,7 @@ Custom panel enabling native access to cloud media directly from Adobe Premiere 
 Mobile app for 1,600+ audio stories with semantic search via Qdrant, BGE-M3, and reranking. 12K+ users (2K MAU). Automated ingestion pipeline: local Whisper → OpenAI API → BGE-M3 → Qdrant → annotation and image generation.
 
 **[First Line Outsourcing](https://flo.team)** — Software Company (Founded 2017, Closed 2025)
-Built from scratch to 25 people. Full-cycle custom development: web, mobile, desktop, cloud. Clients: EA, Google, NBCUniversal, CNN, Riot Games, MLS, MGM, Houston Rockets. Managed hiring, sales, presales, system design, delivery, and hands-on development.
+Built from scratch to 25 people. Full-cycle custom development: web, mobile, desktop, cloud. Clients: EA, Google, NBCUniversal, CNN, Riot Games, MLS, MGM, Houston Rockets. Collaborated closely with iconik, Cantemo, Moments Lab, Yuzzit, Frame.io, Workflow Intelligence Nexus, and DataCore, among others. Managed hiring, sales, presales, system design, delivery, and hands-on development.
 
 ---
 
